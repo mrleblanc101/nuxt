@@ -33,7 +33,7 @@
     "destr": "^2.0.3",
     "globby": "^14.0.2",
     "ignore": "^6.0.2",
-    "jiti": "^2.4.0",
+    "jiti": "^2.4.1",
     "klona": "^2.0.6",
     "knitwork": "^1.1.0",
     "mlly": "^1.7.3",
@@ -44,7 +44,7 @@
     "semver": "^7.6.3",
     "ufo": "^1.5.4",
     "unctx": "^2.3.1",
-    "unimport": "^3.13.4",
+    "unimport": "^3.14.2",
     "untyped": "^1.5.1"
   },
   "devDependencies": {
@@ -54,7 +54,7 @@
     "lodash-es": "4.17.21",
     "nitropack": "2.10.4",
     "unbuild": "latest",
-    "vite": "6.0.1",
+    "vite": "6.0.2",
     "vitest": "2.1.7",
     "webpack": "5.96.1"
   },
